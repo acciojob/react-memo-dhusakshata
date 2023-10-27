@@ -1,5 +1,5 @@
 import React from "react";
-import ToDo from "./ToDo";
+import ToDo from "./Todo";
 import Counter from "./Counter";
 import Memo from "./Memo";
  
