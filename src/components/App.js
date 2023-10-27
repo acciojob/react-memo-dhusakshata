@@ -8,7 +8,7 @@ const App = () => {
         <div id="main">
             <ToDo />
             <Counter />
-            <Memo />
+            <Memo />   
         </div>
     );
 };
